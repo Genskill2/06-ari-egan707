@@ -43,9 +43,9 @@ switch(x)
          break;
   case 4:w="Fourth Grade";
          break;
-  case 5:w="Fifth Grade"
+  case 5:w="Fifth Grade";
          break;
-  case 6:w="Sixth Grade"
+  case 6:w="Sixth Grade";
          break;
   case 7:w="Seventh Grade";
          break;
@@ -63,7 +63,7 @@ switch(x)
          break;
   case 14:w="Professor";
          break;
-  deafult:break;
+       default:break;
 }
 return w;
 }
