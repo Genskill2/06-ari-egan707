@@ -55,11 +55,11 @@ switch(x)
          break;
   case 10:w="Tenth Grade";
          break;
-  case 11:w="Tenth Grade";
+  case 11:w="Eleventh Grade";
          break;
   case 12:w="Twelfth Grade";
          break;
-  case 13:w="Third Grade";
+  case 13:w="College student";
          break;
   case 14:w="Professor";
          break;
